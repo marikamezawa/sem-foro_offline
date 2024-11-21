@@ -112,7 +112,7 @@ void loop()
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
-Para acessar o vídeo do led piscando, clique [aqui](https://github.com/marikamezawa/semaforo_offline/blob/main/semaforo.mp4) e em seguide baixe o vídeo para ser possível assistir.
+Caso o vídeo não rode, você pode acessar ele clicando [aqui](https://drive.google.com/file/d/17yqP2TNr6d8Hy-jwM15HBv4_AngBT8RH/view?usp=sharing) e em seguide baixe o vídeo para ser possível assistir.
 
 ## 7. Avaliação Pares
 
