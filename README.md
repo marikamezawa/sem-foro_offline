@@ -106,6 +106,12 @@ void loop()
 <p> Vídeo do semáforo  </p>
 </div>
 
+
+<video controls width="640">
+  <source src="../semaforo_offline/assets/semaforo.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 Para acessar o vídeo do led piscando, clique [aqui](https://github.com/marikamezawa/semaforo_offline/blob/main/semaforo.mp4) e em seguide baixe o vídeo para ser possível assistir.
 
 ## 7. Avaliação Pares
