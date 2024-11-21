@@ -107,10 +107,7 @@ void loop()
 </div>
 
 
-<video controls width="640">
-  <source src="../semaforo_offline/assets/semaforo.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+https://github.com/user-attachments/assets/84134aae-0431-4f20-b075-3f3488a2b491
 
 Caso o vídeo não rode, você pode acessar ele clicando [aqui](https://drive.google.com/file/d/17yqP2TNr6d8Hy-jwM15HBv4_AngBT8RH/view?usp=sharing) e em seguide baixe o vídeo para ser possível assistir.
 
